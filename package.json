@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Darmikon/html2jsx-loader/issues"
   },
-  "homepage": "https://github.com/Darmikon/html2jsx-loader#readme"
+  "homepage": "https://github.com/Darmikon/html2jsx-loader#readme",
+  "dependencies": {
+    "htmltojsx": "^0.2.6"
+  }
 }
