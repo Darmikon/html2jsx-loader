@@ -1,0 +1,25 @@
+{
+  "name": "html2jsx-loader",
+  "version": "1.0.0",
+  "description": "html to jsx loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darmikon/html2jsx-loader.git"
+  },
+  "keywords": [
+    "html",
+    "jsx",
+    "loader",
+    "webpack"
+  ],
+  "author": "Roman Yudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darmikon/html2jsx-loader/issues"
+  },
+  "homepage": "https://github.com/Darmikon/html2jsx-loader#readme"
+}
